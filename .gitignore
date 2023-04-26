@@ -10,7 +10,7 @@
 *.sln
 *.userprefs
 *.csproj
-/.idea
+.idea
 *.iml
 *.DotSettings.user
 /Assets/Plugins/Editor/JetBrains*
